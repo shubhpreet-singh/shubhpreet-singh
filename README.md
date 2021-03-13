@@ -1,5 +1,5 @@
 - 👋 Hi, I’m shubhpreet-singh
-- 👀 I’m interested in contributing
+- 👀 I’m interested in contributing to open-source
 - 🌱 I’m currently learning B.tech
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
